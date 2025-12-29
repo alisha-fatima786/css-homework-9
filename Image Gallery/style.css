@@ -1,0 +1,23 @@
+   .container {
+      background-color: #f8f9fa;
+      margin: auto;
+      max-width: 1400px;
+    }
+    .navbar-brand {
+      font-weight: bold;
+    }
+    .navbar-text{
+      margin-left:5px ;
+    }
+
+   
+    main{
+        display: grid;
+        grid-template-columns: repeat(5 , 1fr);
+    }
+
+    .col> .row{
+        padding: 5px ;
+
+    }
+ 
