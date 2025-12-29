@@ -2,6 +2,7 @@
       background-color: #f8f9fa;
       margin: auto;
       max-width: 1400px;
+      box-sizing: border-box;
     }
     .navbar-brand {
       font-weight: bold;
